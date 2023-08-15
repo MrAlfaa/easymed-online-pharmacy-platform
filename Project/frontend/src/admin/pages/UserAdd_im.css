@@ -1,0 +1,14 @@
+.head{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color:#D9D9D9;
+    padding: 10px;
+    border-top: solid 5px #0B1145 ;
+
+   
+ 
+   
+}

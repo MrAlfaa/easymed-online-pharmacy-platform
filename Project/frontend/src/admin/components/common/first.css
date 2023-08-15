@@ -1,0 +1,16 @@
+.card{
+   
+    border-radius: 2em;
+   
+    box-shadow: 0 5px 10px rgba(5, 219, 87, 0.2);
+}
+
+.card-body{
+    border-radius: 1em;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    display: flex;
+   
+    box-shadow: 0 5px 10px rgba(8, 236, 77, 0.2);
+}
