@@ -26,5 +26,9 @@ for a time period easily by our pharmacy management system.
 
 #### Technologies used - Mern Stack(MongoDB,React js,Node Js,Express js)
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+## Screenshots
+
+![Screenshot 1](./ss/easymed1.png)
+
+![Screenshot 1](./ss/easymed2.png)
 
